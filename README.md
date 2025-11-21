@@ -58,9 +58,9 @@ Sebelum melanjutkan pastikan untuk mencentang **Select all** seperti gambar di b
  Ada 2 jenis kunci jawaban pada bagian `GRADING`. Perhatikan program yg dipilih oleh peserta PT dan **sesuaikan variabel-variabel kunci jawaban sebelum melanjutkan proses _running_**. 
 
 ### 3. Setelah Pengolahan Gambar
-Hasil pengolahan gambar akan tomatis terunduh dengan nama file `Test Report [NAMA].pdf`, silahkan cari dalam folder Downloads.
+Hasil pengolahan gambar akan otomatis terunduh dengan nama file `Test Report [NAMA].pdf`, silahkan cari dalam folder Downloads.
 <br>
 
 ## PENTING!
-Periksa ulang informasi peserta (Program, Booklet Number, Date, dll) dalam file google spreadsheet! Ketidakcocokan informasi dapat terjadi karena adanya kecacatan produksi atau noda tak kasat mata pada lembaran PT. Bila ada ketidakcocokan, silahkan edit manual informasi peserta dalam file google spreadsheet `Placement Test Report` lalu <ins>**run ulang**</ins> (shift+enter) <ins>**baris paling terakhir dari program OMR.ipynb**</ins>.
+Periksa ulang informasi peserta (Program, Booklet Number, Date, dll) dalam file google spreadsheet! Ketidakcocokan informasi dapat terjadi karena adanya kecacatan produksi atau noda tak kasat mata pada lembaran PT. Bila ada ketidakcocokan, silahkan edit manual informasi peserta dalam file google spreadsheet `Placement Test Report` lalu <ins>**_run_** **ulang**</ins> (shift+enter) <ins>**baris terakhir dari program OMR.ipynb**</ins>.
 
