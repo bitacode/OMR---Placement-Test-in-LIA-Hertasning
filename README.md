@@ -55,7 +55,7 @@ Sebelum melanjutkan pastikan untuk mencentang **Select all** seperti gambar di b
 
  ![Static Badge](https://img.shields.io/badge/important-yellow?style=for-the-badge)
  <br>
- Ada 2 jenis kunci jawaban pada bagian `GRADING`. Perhatikan program yg dipilih oleh peserta PT, **sesuaikan variabel-variabel kunci jawaban sebelum melanjutkan proses _running_**. 
+ Ada 2 jenis kunci jawaban pada bagian `GRADING`. Perhatikan program yg dipilih oleh peserta PT dan **sesuaikan variabel-variabel kunci jawaban sebelum melanjutkan proses _running_**. 
 
 ### 3. Setelah Pengolahan Gambar
 Hasil pengolahan gambar akan tomatis terunduh dengan nama file `Test Report [NAMA].pdf`, silahkan cari dalam folder Downloads.
