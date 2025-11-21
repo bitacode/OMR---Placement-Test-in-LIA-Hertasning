@@ -1,5 +1,5 @@
 # OMR for Placement Test in LIA Hertasning
-> _Repository_ ini **milik pribadi** dan dibuat untuk **kepentingan pribadi** selama di Lembaga Bahasa LIA Hertasning. Redistribusi atau penyebaran publik atas program ini tidak diperbolehkan tanpa izin eksplisit dari pihak pertama. Lihat file LICENSE untuk detail lebih lanjut!
+> _Repository_ ini **milik pribadi** dan dibuat untuk **kepentingan pribadi** pihak pertama selama di Lembaga Bahasa LIA Hertasning. Redistribusi atau penyebaran publik atas program ini tidak diperbolehkan tanpa izin eksplisit dari pihak pertama. Lihat file LICENSE untuk detail lebih lanjut!
 
 <br>
 
